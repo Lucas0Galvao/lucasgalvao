@@ -2,7 +2,7 @@
 
 - 🔭 Front-end student
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Lucas0Galvao/1c650874d1bd5e7825dc4cc1eea9c61c/raw/9e3efc15d41d64db7768037eedf61091c6646415/githubcard.svg"/>
+<img align="right" height="415em" src="https://raw.githubusercontent.com/gist/Lucas0Galvao/1c650874d1bd5e7825dc4cc1eea9c61c/raw/9e3efc15d41d64db7768037eedf61091c6646415/githubcard.svg"/>
 
 ##
 
